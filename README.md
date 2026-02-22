@@ -17,4 +17,7 @@ Simply run it from dreamer_cartpole.ipynb. If you have a trained model, please a
 This is the result of running simulations based on the trained model. It also includes latent rollout simulations without interaction with the actual environment.
 
 <img src="gif/simulation.gif" width="400" alt="Simulation GIF"/>
-<img src="gif/latent_simulation.gif" width="400" alt="Latent Simulation GIF"/>
+<img src="gif/latent_simulation.gif" width="400" alt="Latent Simulation GIF"/>  
+
+## Reference  
+- https://github.com/kc-ml2/SimpleDreamer
